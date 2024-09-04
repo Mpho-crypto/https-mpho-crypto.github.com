@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <body>
+            <title>Student Webpage</title>
+        <body>
+            <header>Welcome to My Webpage</header>
+            <nav>
+                <ul>
+                       
+                </ul><a href="#"Home</a></ul>
+                    <li><a href="about"about</a></li>
+                    <li><a href="contact"contact</a></li>
+
+                        <main>
+                            <h2>About me</h2>
+                            <p>I am girl from Nazareth Ha-molengoane aged 22</p>
+                            <ul>Javelin,Foot-ball and Field Events</ul>
+                    
+                            <footer>2024 Ntsebeng Maine</footer>
+                            
+
+
+
+        
